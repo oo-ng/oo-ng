@@ -11,7 +11,7 @@ I'm a passionate Software Developer with a **Bachelor of Science in Computer Sci
 - **Quality Engineering:** Watir, RSpec, Cucumber, Gherkin  
 - **Data Analysis & Visualization:** Power BI, Tableau  
 
-### 🌟 Featured Project: [The Wild Oasis](#)  
+### 🌟 Featured Project: The Wild Oasis  
 **The Wild Oasis** is a cabin management application designed to simplify operations and enhance usability:  
 - **Features:** Cabin booking, sales statistics, user authentication/authorization, dark mode, and dynamic data visualization with Recharts.  
 - **Tech Stack:** React, Supabase, Styled Components, React Hook Form, and React Query.  
